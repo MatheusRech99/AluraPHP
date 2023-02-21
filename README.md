@@ -1,2 +1,2 @@
-# AluraPHP
+# PHP
 Centralizando os estudos.
